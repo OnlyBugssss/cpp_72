@@ -1,0 +1,8 @@
+{
+    "malfunction2107@outlook.com": {
+        "Last check": "2023-05-07",
+        "Today's points": 480,
+        "Points": 480
+    },
+    "Elapsed time": "00:14:41"
+}
